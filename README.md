@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! This is Robbin 👋
+
+### Study:
+* Android
+* Java
+* Kotlin
+* JavaScript/TypeScript
+* Python
+
+### Plan:
+* PyTorch
+* Golang
 
 <!--
 **RobbinM/RobbinM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
